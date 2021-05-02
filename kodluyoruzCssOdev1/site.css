@@ -1,0 +1,40 @@
+body{
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title{
+    color: red;
+}
+
+h1{
+    color:red;
+    text-align: center;
+    
+}
+
+.pageLink{
+    text-align: center;
+}
+
+.pageLink a {
+   padding: 10px;
+}
+
+h2{
+    color: purple;
+    text-align: center;
+}
+
+.indexPElement{
+    text-align: center;
+}
+
+.liElement{
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol>li{
+    margin-bottom: 10px;
+}
